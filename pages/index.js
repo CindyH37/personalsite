@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="leading-[1.75]">
       <div>
-        <p className="pt-10 text-center text-5xl">Hi, I'm Gary</p>
+        <p className="pt-10 text-center text-5xl">Hi, I'm Cindy</p>
       </div>
       <br />
       <div className="flex gap-8">
@@ -15,9 +15,9 @@ export default function Home() {
           <a href="https://www.nexusworkshop.org" target="_blank" rel="noreferrer">
             The Nexus Workshop
           </a>{' '}
-          and a rising high school junior at{' '}
-          <a href="https://www.mka.org/" target="_blank" rel="noreferrer">
-            Montclair Kimberley Academy
+          and a rising freshman at{' '}
+          <a href="https://www.williams.edu/" target="_blank" rel="noreferrer">
+            Williams College
           </a>
           . Broadly speaking, I'm mostly interested in math and computer science.
           {/* Currently Exploring */}
