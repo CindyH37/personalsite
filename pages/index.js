@@ -4,110 +4,66 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div className="leading-[1.75]">
+    <div className="leading-[2.0]">
       <div>
-        <p className="pt-10 text-center text-5xl">Hi, I'm Cindy</p>
+        <p className="pt-10 text-center text-5xl">Hi, I'm Cindy.</p>
       </div>
       <br />
       <div className="flex gap-8">
-        <div className="w-3/4">
-          I'm the cofounder of{' '}
-          <a href="https://www.nexusworkshop.org" target="_blank" rel="noreferrer">
-            The Nexus Workshop
-          </a>{' '}
-          and a rising freshman at{' '}
+        <div className="w-3/5">
+          I'm a rising freshman at{' '}
           <a href="https://www.williams.edu/" target="_blank" rel="noreferrer">
             Williams College
+          </a>{' '}
+          and a cofounder of{' '}
+          <a href="https://www.nexusworkshop.org" target="_blank" rel="noreferrer">
+            The Nexus Workshop
           </a>
-          . Broadly speaking, I'm mostly interested in math and computer science.
+          . Broadly speaking, I’m most interested in figuring out what I’m interested in.
           {/* Currently Exploring */}
           <br /> <br />
-          <p className="text-center text-xl font-bold">Currently Exploring</p>
+          <p className="text-center text-2xl font-bold">Currently Exploring</p>
           <ul>
             <li>
-              Learning the zero knowledge cryptography circuit compiler language{' '}
-              <a href="https://docs.circom.io" target="_blank" rel="noreferrer">
-                Circom
+              Learning about startups at{' '}
+              <a href="https://www.startupschool.org/" target="_blank" rel="noreferrer">
+                Startup School
               </a>
               .
             </li>
             <li>
-              Growing, marketing, and creating content for my{' '}
-              <a href="https://www.nexusworkshop.org" target="_blank" rel="noreferrer">
-                nonprofit
-              </a>
-              .
+              Reading{' '}
+              <a href="https://theprecipice.com/" target="_blank" rel="nonreferrer noreferrer">
+                The Precipice
+              </a>{' '}
+              by Toby Ord, a book about existential risks and what we can do about them. This is
+              because I recently started to become interested in AI alignment.
             </li>
             <li>
-              <a
-                href="https://monkeytype.com/profile?uid=z0FhHkigZgSCeoKS6Z0SvGGG7iu2"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Speedtyping
-              </a>{' '}
-              and learning the{' '}
-              <a href="https://colemakmods.github.io/mod-dh/" target="_blank" rel="noreferrer">
-                Colemak Mod-DH
-              </a>{' '}
-              keyboard layout.
+              Various creative pursuits including piano, amigurumi crochet, and Chinese brush
+              painting.
             </li>
           </ul>
-          {/* Past */}
+          {/* Past Projects*/}
           <br />
-          <p className="text-center text-xl font-bold">Some Things I've Done In The Past</p>
+          <p className="text-center text-2xl font-bold">Past Projects</p>
           <ul>
             <li>
-              Compete in math competitions. Most notably, I placed fourth place overall and third
-              place for the geometry round at the{' '}
-              <a href="https://cmimconline.org" target="_blank" rel="noreferrer">
-                Carnegie Mellon Informatics and Mathematics Competition
-              </a>
-              . Also, I qualified for the {''}
               <a
-                href="https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime"
+                href="https://an-eternal-golden-braid.super.site/"
                 target="_blank"
                 rel="noreferrer"
               >
-                American Invitational Mathematics Competition
-              </a>{' '}
-              as an 8th grader. Nowadays, I give back to the math contest community through creating
-              content for{' '}
-              <a href="https://www.everaise.org" target="_blank" rel="noreferrer">
-                Everaise Academy
+                An Eternal Golden Braid
               </a>
-              .
-            </li>
-            <li>
-              Play ice hockey. Back in 2019, I played in the{' '}
-              <a
-                href="https://www.tournoipee-wee.qc.ca/en/index.html"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Quebec International Pee-Wee Hockey Tournament
-              </a>
-              . In the same year, I was invited to both the{' '}
-              <a href="https://twitter.com/CombineCrimson" target="_blank" rel="noreferrer">
-                Harvard Crimson Combine
-              </a>{' '}
-              and the{' '}
-              <a
-                href="https://worldhockeyhub.com/world-selects-invitational-trophy/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                World Selects Internationals
-              </a>
-              . Unfortunately, injuries and Covid-19 got in the way, stopping me from participating
-              in these two events as well as large portions of the next two seasons. Nowadays, I
-              don't play as competitively as I used to, but I still enjoy playing on my high
-              school's team.
+              . This is a website I built during a monthlong project in May. It's based on Douglas
+              Hofstadter's Gödel, Escher, Bach, which was my first exposure to (rather primitive)
+              AI.
             </li>
           </ul>
         </div>
         <div className="mx-auto block w-1/4">
-          <Image src="/static/images/ocean.jpeg" width="240" height="300" />
+          <Image src="/static/images/pineapple.png" width="550" height="600" />
         </div>
       </div>
     </div>
