@@ -49,6 +49,14 @@ export default function Home() {
           <p className="text-center text-2xl font-bold">Past Projects</p>
           <ul>
             <li>
+              <a href="https://www.duolingo.com/" target="_blank" rel="noreferrer">
+                Duolingo
+              </a>
+              . On June 28, I celebrated reaching a 365-day streak. By now I'm about 90% done with
+              the French course and plan to keep going until I finish it. Then I'll probably move on
+              to another language.
+            </li>
+            <li>
               <a
                 href="https://an-eternal-golden-braid.super.site/"
                 target="_blank"
