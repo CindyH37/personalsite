@@ -25,23 +25,60 @@ export default function Home() {
           <p className="text-center text-2xl font-bold">Currently Exploring</p>
           <ul>
             <li>
-              Learning about startups at{' '}
+              Attending{' '}
               <a href="https://www.startupschool.org/" target="_blank" rel="noreferrer">
                 Startup School
               </a>
-              .
+              , possibly the most informative free online program I've ever participated in.
             </li>
             <li>
               Reading{' '}
-              <a href="https://theprecipice.com/" target="_blank" rel="nonreferrer noreferrer">
-                The Precipice
+              <a
+                href="https://www.elizabethgilbert.com/books/eat-pray-love/"
+                target="_blank"
+                rel="nonreferrer noreferrer"
+              >
+                Eat, Pray, Love
               </a>{' '}
-              by Toby Ord, a book about existential risks and what we can do about them. This is
-              because I recently started to become interested in AI alignment.
+              by Elizabeth Gilbert. This is a memoir about - get this - eating, praying, and loving.
+              I needed something uplifting and so far it's been amazing.
             </li>
             <li>
-              Various creative pursuits including piano, amigurumi crochet, and Chinese brush
-              painting.
+              Various creative pursuits including{' '}
+              <a
+                href="https://en.wikipedia.org/wiki/Printmaking"
+                target="_blank"
+                rel="nonreferrer noreferrer"
+              >
+                printmaking
+              </a>{' '}
+              and{' '}
+              <a
+                href="https://en.wikipedia.org/wiki/Amigurumi"
+                target="_blank"
+                rel="nonreferrer noreferrer"
+              >
+                amigurumi
+              </a>
+              .
+            </li>
+          </ul>
+          {/* Up Next */}
+          <br />
+          <p className="text-center text-2xl font-bold">Up Next</p>
+          <ul>
+            <li>
+              Participating in
+              <a
+                href="https://www.janestreet.com/wise-nyc-email"
+                target="_blank"
+                rel="nonreferrer noreferrer"
+              >
+                {' '}
+                WiSE
+              </a>
+              , a two-day introduction to quantitative trading and life at Jane Street, neither of
+              which I know anything about as of now.
             </li>
           </ul>
           {/* Past Projects*/}
