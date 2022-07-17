@@ -52,15 +52,7 @@ export default function Home() {
               >
                 printmaking
               </a>{' '}
-              and{' '}
-              <a
-                href="https://en.wikipedia.org/wiki/Amigurumi"
-                target="_blank"
-                rel="nonreferrer noreferrer"
-              >
-                amigurumi
-              </a>
-              .
+              and crocheting a wool beanie.
             </li>
           </ul>
           {/* Up Next */}
@@ -79,6 +71,36 @@ export default function Home() {
               </a>
               , a two-day introduction to quantitative trading and life at Jane Street, neither of
               which I know anything about as of now.
+            </li>
+            <li>
+              Reading{' '}
+              <a
+                href="http://www.emilymandel.com/sot.html"
+                target="_blank"
+                rel="nonreferrer noreferrer"
+              >
+                Sea of Tranquility
+              </a>{' '}
+              by Emily St. John Mandel and{' '}
+              <a
+                href="https://www.oceanvuong.com/copy-of-home"
+                target="_blank"
+                rel="nonreferrer noreferrer"
+              >
+                On Earth We're Briefly Gorgeous
+              </a>{' '}
+              by Ocean Vuong.
+            </li>
+            <li>
+              Crocheting a cow keychain and an{' '}
+              <a
+                href="https://en.wikipedia.org/wiki/Amigurumi"
+                target="_blank"
+                rel="nonreferrer noreferrer"
+              >
+                amigurumi
+              </a>{' '}
+              bunny to keep me company at college.
             </li>
           </ul>
           {/* Past Projects*/}
