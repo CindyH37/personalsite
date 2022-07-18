@@ -103,34 +103,12 @@ export default function Home() {
               bunny to keep me company at college.
             </li>
           </ul>
-          {/* Past Projects*/}
           <br />
-          <p className="text-center text-2xl font-bold">Past Projects</p>
-          <ul>
-            <li>
-              <a href="https://www.duolingo.com/" target="_blank" rel="noreferrer">
-                Duolingo
-              </a>
-              . On June 28, I celebrated reaching a 365-day streak. By now I'm about 90% done with
-              the French course and plan to keep going until I finish it. Then I'll probably move on
-              to another language.
-            </li>
-            <li>
-              <a
-                href="https://an-eternal-golden-braid.super.site/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                An Eternal Golden Braid
-              </a>
-              . This is a website I built during a monthlong project in May. It's based on Douglas
-              Hofstadter's Gödel, Escher, Bach, which was my first exposure to (rather primitive)
-              AI.
-            </li>
-          </ul>
         </div>
         <div className="mx-auto block w-1/4">
           <Image src="/static/images/pineapple.png" width="550" height="600" />
+
+          {/* Put your Dickinson poem here */}
         </div>
       </div>
     </div>
