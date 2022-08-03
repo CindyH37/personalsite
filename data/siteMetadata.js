@@ -1,8 +1,8 @@
 const siteMetadata = {
   title: 'Next.js Starter Blog',
   author: 'Cindy Hu',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'Cindy Hu',
+  description: 'A blog created with Next.js and Tailwind.css. Written by a professional pineapple.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://cindyhu.vercel.app',
