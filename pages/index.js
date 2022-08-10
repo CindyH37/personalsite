@@ -25,6 +25,18 @@ export default function Home() {
           <p className="text-center text-2xl font-bold">Currently Exploring</p>
           <ul>
             <li>
+              Wrapping up my{' '}
+              <a
+                href="https://en.wikipedia.org/wiki/Printmaking"
+                target="_blank"
+                rel="nonreferrer noreferrer"
+              >
+                printmaking
+              </a>{' '}
+              class and crocheting my second wool beanie because my first one looked like an ugly
+              candy corn :D
+            </li>
+            <li>
               Attending{' '}
               <a href="https://www.startupschool.org/" target="_blank" rel="noreferrer">
                 Startup School
@@ -43,35 +55,12 @@ export default function Home() {
               by Elizabeth Gilbert. This is a memoir about - get this - eating, praying, and loving.
               I needed something uplifting and so far it's been amazing.
             </li>
-            <li>
-              Various creative pursuits including{' '}
-              <a
-                href="https://en.wikipedia.org/wiki/Printmaking"
-                target="_blank"
-                rel="nonreferrer noreferrer"
-              >
-                printmaking
-              </a>{' '}
-              and crocheting a wool beanie.
-            </li>
           </ul>
           {/* Up Next */}
           <br />
           <p className="text-center text-2xl font-bold">Up Next</p>
           <ul>
-            <li>
-              Participating in
-              <a
-                href="https://www.janestreet.com/wise-nyc-email"
-                target="_blank"
-                rel="nonreferrer noreferrer"
-              >
-                {' '}
-                WiSE
-              </a>
-              , a two-day introduction to quantitative trading and life at Jane Street, neither of
-              which I know anything about as of now.
-            </li>
+            <li>Moving into college!</li>
             <li>
               Reading{' '}
               <a

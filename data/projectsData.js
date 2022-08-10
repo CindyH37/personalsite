@@ -1,7 +1,13 @@
 const projectsData = [
   {
+    title: 'Startup School',
+    description: `I spent 7 weeks over the summer participating in Y Combinator's Startup School, an incredibly well-run online program that covers the basics of building your own startup. So although I don't exactly have a startup right now, I know where to go if I want to start one...`,
+    imgSrc: '/static/images/startup.jpeg',
+    href: 'https://www.startupschool.org/',
+  },
+  {
     title: 'WiSE',
-    description: `From July 26-27, I participated in a two-day introduction to Jane Street program in Manhattan. There, we learned about expected value and biases, toured their beautiful office, and played a card game called Figgie.
+    description: `From July 25-26, I participated in a two-day introduction to Jane Street program in Manhattan. There, we learned about expected value and biases, toured their beautiful office, and played a card game called Figgie.
     `,
     imgSrc: '/static/images/wise.png',
     href: 'https://www.janestreet.com/join-jane-street/programs-and-events/wise/',
