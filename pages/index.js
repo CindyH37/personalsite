@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="leading-[2.0]">
       <div>
-        <p className="pt-10 text-center text-5xl">Hi, I'm Cindy.</p>
+        <p className="pt-10 text-center text-5xl">Salut, I'm Cindy!</p>
       </div>
       <br />
       <div className="flex gap-8">
@@ -19,7 +19,7 @@ export default function Home() {
           <a href="https://www.nexusworkshop.org" target="_blank" rel="noreferrer">
             The Nexus Workshop
           </a>
-          . Broadly speaking, I’m most interested in figuring out what I’m interested in.
+          . I'm broadly interested in mathematics and exploring languages.
           {/* Currently Exploring */}
           <br /> <br />
           <p className="text-center text-2xl font-bold">Currently Exploring</p>
@@ -70,15 +70,7 @@ export default function Home() {
               >
                 Sea of Tranquility
               </a>{' '}
-              by Emily St. John Mandel and{' '}
-              <a
-                href="https://www.oceanvuong.com/copy-of-home"
-                target="_blank"
-                rel="nonreferrer noreferrer"
-              >
-                On Earth We're Briefly Gorgeous
-              </a>{' '}
-              by Ocean Vuong.
+              by Emily St. John Mandel.
             </li>
             <li>
               Crocheting a cow keychain and an{' '}
