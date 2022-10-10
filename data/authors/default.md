@@ -1,16 +1,20 @@
 ---
 name: Cindy Hu
 avatar: /static/images/pineapple.png
-occupation: Professional Pineapple
-company: Williams College
+company: Williams College '26
 email: cinderellahu9@gmail.com
 twitter: https://twitter.com/CindyHu07470779
 linkedin: https://www.linkedin.com/in/cinderella-hu/
 github: https://github.com/CindyH37
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I'm a first-year student at Williams College, originally from New Jersey. I attended high school at the Montclair Kimberley Academy where I headed the math club and played varsity ice hockey.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Random things I like include:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- Long one-on-one conversations
+- Watercolor florals and pastel colors
+- Stuffed animals, swing sets, and picture books
+- Sitting on tables and writing on whiteboards
+- Fall foliage (which I get plenty of in MA)
+- Snow days (which I sadly no longer get)

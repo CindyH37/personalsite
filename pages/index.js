@@ -55,7 +55,7 @@ export default function Home() {
               Things I Sometimes Go To: Effective Altruism Discussions, Chinese and French Language
               Tables, Mathematics Faculty Seminars
             </li>
-            <li>Trying to Learn: Flow Arts (Poi)</li>
+            <li>Trying to Learn: Flow Arts (Poi Spinning)</li>
           </ul>
           <br />
         </div>
