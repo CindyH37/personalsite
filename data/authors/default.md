@@ -18,3 +18,5 @@ Random things I like include:
 - Sitting on tables and writing on whiteboards
 - Fall foliage (which I get plenty of in MA)
 - Snow days (which I sadly no longer get)
+- Thunderstorms
+- Koi ponds
